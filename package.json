@@ -14,7 +14,9 @@
       "babel-register"
     ],
     "babel": {
-      "presets": ["es2015"]
+      "presets": [
+        "es2015"
+      ]
     }
   },
   "browserify": {
@@ -35,5 +37,6 @@
     "babelify": "^7.3.0",
     "simplifyify": "^3.2.1",
     "standard": "^10.0.2"
-  }
+  },
+  "dependencies": {}
 }

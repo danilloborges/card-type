@@ -1,0 +1,21 @@
+{
+  "name": "card-type",
+  "description": "get card-type from bin code",
+  "main": "dist/card-type.js",
+  "authors": [
+    "danillo <danillo@novaxs.com.br>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "card-type",
+    "creditcard"
+  ],
+  "homepage": "https://github.com/danilloborges/card-type",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
