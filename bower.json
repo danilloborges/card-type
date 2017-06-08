@@ -1,5 +1,6 @@
 {
   "name": "card-type",
+  "version": "0.0.1",
   "description": "get card-type from bin code",
   "main": "dist/card-type.js",
   "authors": [
